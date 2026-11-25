@@ -8,6 +8,8 @@ The project’s primary objective is to design and implement an artificial intel
 The solution integrates a **Python backend** with a **modern web frontend**, enabling users to evaluate and apply machine learning models through an accessible and interactive interface.  
 GoldLens seeks to connect **advanced data science** with **astronomy** while promoting **open collaboration** and **scientific discovery**.
 
+
+PITCH: https://youtu.be/szvgwXYw78o
 ---
 
 ## 🚀 Project Overview
